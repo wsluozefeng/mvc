@@ -34,6 +34,7 @@ class Cache{
 
         }
 
+
         return self::$_instance[$className];
     }
 
