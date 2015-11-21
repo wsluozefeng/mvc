@@ -1,8 +1,0 @@
-
-[2015-08-17 02:07:28 192.168.159.1]: Call to undefined method ajia::dd() in /data/web/dir/ajia.php 34 line 
-[2015-08-17 02:10:42 192.168.159.1]: Call to undefined method ajia::dd() in /data/web/dir/ajia.php 34 line 
-[2015-08-17 02:28:14 192.168.159.1]: Call to undefined method ajia::dd() in /data/web/dir/ajia.php 40 line 
-[2015-08-17 02:28:35 192.168.159.1]: Call to undefined method ajia::dd() in /data/web/dir/ajia.php 41 line 
-[2015-08-17 02:29:23 192.168.159.1]: Call to undefined method ajia::dd() in /data/web/dir/ajia.php 41 line 
-[2015-08-17 02:29:31 192.168.159.1]: Call to undefined method ajia::dd() in /data/web/dir/ajia.php 41 line 
-[2015-08-17 02:29:36 192.168.159.1]: Call to undefined method ajia::dd() in /data/web/dir/ajia.php 41 line 
